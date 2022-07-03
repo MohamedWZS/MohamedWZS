@@ -14,8 +14,8 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
-Connect with me @[SREboy.com](https://www.SREboy.com)
------------------------------------------------------
+Connect with me 
+----------------
 [<img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -25,7 +25,7 @@ Connect with me @[SREboy.com](https://www.SREboy.com)
 </br>
 
 [twitter]: https://twitter.com/Ziad_M_404
-[facebook]: https://www.facebook.com/Ziad.M.404
+[facebook]: https://www.facebook.com/MohamedWZS
 [instagram]: https://www.instagram.com/ziad_m_404/
 [linkedin]: https://www.linkedin.com/in/mohamedwzs/
 [whatsapp]: https://wa.me/201021799950
