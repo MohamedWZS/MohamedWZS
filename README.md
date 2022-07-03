@@ -24,8 +24,7 @@ Connect with me
 
 </br>
 
-[twitter]: https://twitter.com/Ziad_M_404
+[twitter]: https://twitter.com/MohamedZaghllol
 [facebook]: https://www.facebook.com/MohamedWZS
-[instagram]: https://www.instagram.com/ziad_m_404/
 [linkedin]: https://www.linkedin.com/in/mohamedwzs/
-[whatsapp]: https://wa.me/201021799950
+[whatsapp]: https://wa.me/201011999292
