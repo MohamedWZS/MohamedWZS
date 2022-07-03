@@ -2,11 +2,10 @@
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
-  <iframe src="https://giphy.com/embed/vLlpbDafjgHystuJ0a" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/webfx-code-interactive-code-a-yoda-vLlpbDafjgHystuJ0a">via GIPHY</a></p>
-  
   [![](https://komarev.com/ghpvc/?username=MohamedWZS&color=blue&label=Profile%20Views)](https://github.com/MohamedWZS)
   [![](https://img.shields.io/github/followers/MohamedWZS?label=GitHub%20Followers)](https://github.com/MohamedWZS)
   
+  Software Engineer Student @CUFE | Seeking Software Engineer Internship | Python, C++, Go, Java
 </div>
 
 
