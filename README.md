@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-[![](https://komarev.com/ghpvc/?username=MohamedWZS&color=blue&label=Profile%20Views)]([https://github.com/ZiadMansourM/ZiadMansourM](https://github.com/MohamedWZS))
+[![](https://komarev.com/ghpvc/?username=MohamedWZS&color=blue&label=Profile%20Views)](https://github.com/MohamedWZS)
 [![](https://img.shields.io/github/followers/ZiadMansourM?label=GitHub%20Followers)](https://github.com/ZiadMansourM)
 
 Connect with me 
