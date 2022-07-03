@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+[![](https://komarev.com/ghpvc/?username=ZiadMansourM&color=blue&label=Profile%20Views)](https://github.com/ZiadMansourM/ZiadMansourM)
+[![](https://img.shields.io/github/followers/ZiadMansourM?label=GitHub%20Followers)](https://github.com/ZiadMansourM)
 
 Connect with me 
 ----------------
