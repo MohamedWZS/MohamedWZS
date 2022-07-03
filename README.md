@@ -3,7 +3,7 @@
 </div>
 
 [![](https://komarev.com/ghpvc/?username=MohamedWZS&color=blue&label=Profile%20Views)](https://github.com/MohamedWZS)
-[![](https://img.shields.io/github/followers/ZiadMansourM?label=GitHub%20Followers)](https://github.com/ZiadMansourM)
+[![](https://img.shields.io/github/followers/MohamedWZS?label=GitHub%20Followers)](https://github.com/MohamedWZS)
 
 Connect with me 
 ----------------
