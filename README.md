@@ -1,9 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  [![](https://komarev.com/ghpvc/?username=MohamedWZS&color=blue&label=Profile%20Views)](https://github.com/MohamedWZS)
+  [![](https://img.shields.io/github/followers/MohamedWZS?label=GitHub%20Followers)](https://github.com/MohamedWZS)
 </div>
 
-[![](https://komarev.com/ghpvc/?username=MohamedWZS&color=blue&label=Profile%20Views)](https://github.com/MohamedWZS)
-[![](https://img.shields.io/github/followers/MohamedWZS?label=GitHub%20Followers)](https://github.com/MohamedWZS)
+
 
 Connect with me 
 ----------------
