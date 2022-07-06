@@ -8,6 +8,7 @@
   Software Engineer Student @CUFE | Seeking Software Engineer Internship | Python, C++, Go, Java
 </div>
 
+<div id="main" align="center">
 # 💫 About Me:
 🔭 I’m currently enrolled in NTI artificial Intelligence Internship<br>👯 I’m looking to collaborate on open Source projects<br>🌱 I’m currently learning Golang<br>⚡ Fun fact a shark is the only known fish that can blink with both eyes. 
 
@@ -30,3 +31,4 @@
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+</div>
