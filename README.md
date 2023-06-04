@@ -10,7 +10,7 @@
 
 <div id="main" align="center">
 # 💫 About Me:
-🔭 I’m currently enrolled in NTI artificial Intelligence Internship<br>👯 I’m looking to collaborate on open Source projects<br>🌱 I’m currently learning Golang<br>⚡ Fun fact a shark is the only known fish that can blink with both eyes. 
+🔭 I’m a former Internee in NTI artificial Intelligence Internship<br>👯 I’m looking to collaborate on open Source projects<br>🌱 I’m currently learning Golang<br>⚡ Fun fact a shark is the only known fish that can blink with both eyes. 
 
 
 ## 🌐 Socials:
